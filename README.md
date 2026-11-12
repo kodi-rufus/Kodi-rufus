@@ -78,7 +78,7 @@ Government Polytechnic, Pendurthi
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** [KODI RUFUS](https://www.linkedin.com/in/kodi-rufus/)
 - **Location:** Visakhapatnam, Andhra Pradesh, India
 
 ---
