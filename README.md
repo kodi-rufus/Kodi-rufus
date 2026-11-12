@@ -84,3 +84,9 @@ Government Polytechnic, Pendurthi
 ---
 
 *Always learning, building, and exploring technology.*
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kodi-rufus&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodi-rufus&layout=compact&theme=tokyonight)
