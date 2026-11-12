@@ -1,3 +1,4 @@
+![KODI RUFUS Banner](file_00000000cb408208bc92be9217e0a927.png)
 
 # Hi, I'm KODI RUFUS 👋
 
