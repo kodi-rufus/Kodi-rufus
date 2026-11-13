@@ -1,3 +1,4 @@
+
 ![KODI RUFUS Banner](1794561679007.png)
 
 # Hi, I'm KODI RUFUS 👋
@@ -34,25 +35,57 @@ Government Polytechnic, Pendurthi
 ## 🚀 Projects
 
 ### 1. AI Surveillance Car – ESP32-CAM
-[View Project Repository](https://github.com/Kodi-rufus/AI-Surveillance-Car-ESP32-CAM)
 
-- Wi-Fi controlled surveillance car with live camera streaming.
-- ESP32-CAM, L298N motor driver and embedded systems.
-- **First Prize – Technostav 2K26.**
+Wi-Fi-controlled surveillance car with live camera streaming and wireless mobile access.
 
-### 2. Agentic AI-Based RF Signal Analysis & Classification
-[View Project Repository](https://github.com/Kodi-rufus/Agentic-AI-RF-Signal-Analysis)
+- ESP32-CAM and L298N motor driver integration.
+- Live video streaming through a mobile browser.
+- Embedded systems and Wi-Fi communication.
 
-- Python-based RF signal analysis and modulation classification.
-- Signal processing and parameter estimation.
-- Introduction to Agentic AI workflows.
+🏆 **First Prize – Technostav 2K26**
 
-### 3. Building Management System (BMS)
-- Academic engineering project involving building management concepts.
+🔗 [View Project Repository](https://github.com/Kodi-rufus/AI-Surveillance-Car-ESP32-CAM)
 
 ---
 
-## 🏆 Achievement
+### 2. Agentic AI-Based RF Signal Analysis & Classification
+
+Python-based project exploring RF signal simulation, analysis, modulation classification and parameter estimation.
+
+- RF signal processing and FFT analysis.
+- Digital and analog modulation concepts.
+- Exploration of Agentic AI workflows.
+
+🔗 [View Project Repository](https://github.com/Kodi-rufus/Agentic-AI-RF-Signal-Analysis)
+
+---
+
+### 3. WCS – Wireless Communication I/O Transfer System
+
+Gained hands-on industrial exposure during a six-month diploma internship at Lotus Wireless, working in the presence and under the guidance of an industry professional.
+
+- Radio modems and wireless communication.
+- RTUs, PLCs and SCADA concepts.
+- Industrial I/O systems and PCB processes.
+
+🔗 [View Project Repository](https://github.com/Kodi-rufus/WCS-Wireless-Communication-IO-System)
+
+---
+
+### 4. BMS – Building & Light Management System
+
+Academic project explored through a practical demonstration, with opportunities to observe components, understand system operation and operate the setup.
+
+- ESP32-WROOM and IoT concepts.
+- Embedded systems and PCB components.
+- Wi-Fi connectivity and smart lighting management.
+- Firebase, MQTT and WebSocket concepts.
+
+🔗 [View Project Repository](https://github.com/Kodi-rufus/BMS-Building-Light-Management-System)
+
+---
+
+## 🏆 Achievements
 
 - First Prize – AI Surveillance Car Project, Technostav 2K26.
 
